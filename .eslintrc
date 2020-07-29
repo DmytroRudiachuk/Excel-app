@@ -9,7 +9,11 @@
 		"semi": "off",
 		"arrow-parans": "off",
 		"comma-dangle": "off",
-		"require-jsdoc": "off"
+		"require-jsdoc": "off",
+		"linebreak-style": [
+			"error",
+			"windows"
+		]
 	},
 	"extends": [
 		"eslint:recommended",
